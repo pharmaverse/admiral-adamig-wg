@@ -9,6 +9,10 @@ A gap in coverage could be:
   * Documentation in admiral could be enhanced to provide better user accessibility/understanding of derivation/concept in the IG
 
 Working Group members identifying gaps will:
-  * Create issues in admiral repo alerting dev team of the gaps
+  * Create issues in admiral R Package repo alerting dev team of the gaps
   * Work on updates to the function/documentation to address these issues (NOT REQUIRED)
+
+## Reviewing IG and admiral Process 
+
+
 
